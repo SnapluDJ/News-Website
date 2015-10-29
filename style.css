@@ -1,0 +1,38 @@
+body{
+	background-image: url("background.jpg");
+}
+
+#index_h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 39pt;
+}
+
+#login{
+	position: absolute;
+	top: 0px;
+	right: 75px;
+	font-style: italic;
+}
+
+#register, #logout{
+	position: absolute;
+	top: 0px;
+	right: 15px;
+	font-style: italic;
+}
+
+#register_h1, #login_h1{
+	text-align: center;
+	font-style: italic;
+	font-size: 39pt;
+}
+
+#register_form, #login_form{
+	text-align: center;
+}
+
+#login_message, #register_message{
+	text-align: center;
+}
+

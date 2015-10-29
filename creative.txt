@@ -1,0 +1,7 @@
+Dongjie Lu 437747
+Kai Zhang 438833
+
+Link: http://ec2-52-88-182-109.us-west-2.compute.amazonaws.com/~dongjielu
+
+Description: In the creative portion, we made a friend system, in which you can view your current friend and add a new friend,
+             when you click your friend's name, it will lead you to his homepage, and you can see all the news he has posted yet.
